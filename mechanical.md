@@ -1,6 +1,6 @@
 CALVIN's Mechanical Features
 =====
-![CALVIN](images/Photoshoot (1).jpeg)
+<img src="images/Photoshoot (1).jpeg" />
 Calvin was designed with mechanical simplicity in mind. In order to minimize man-made error in fabrication and assembly of components we created a minimalistic design using a single crane/arm combination with diverse functionality. The crane is located on the rear end of the chassis and has 180 degrees of motion to rotate left or right, the arm is mounted atop the crane and has just over 90 degrees of motion to move up and down, and the claw itself is attached to the end of the arm and each claw rotates about 45 degrees to open and close. All these component's motions are actuated by servo motors controlled through the TINAH board which is coded for Calvin to use his arm to pick up agents, as well as place the agents on the zip-line.
 
 ### What Does CALVIN Do?
