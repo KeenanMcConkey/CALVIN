@@ -37,4 +37,6 @@ This main box is constructed out of 3mm hardboard and is designed to mount our T
 
 ![TINAH Mount/Wire Box](images/Robot_Drawing_TINAHBOX.PNG)
 
+### Navigation
+
 [Return to Home Page](index.md)
