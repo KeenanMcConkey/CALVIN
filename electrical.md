@@ -12,7 +12,7 @@ The microcontroller we used was a modified arduino board with inputs and other f
 
 Below are the schematics for each electronic component we essembled.
 
-![H-Bridge Schematic](images/H_Bridge_Schematic.png)
+![H-Bridge Schematic](images/H_Bridge_Schem.png)
 
 ![IR Filter Schematic](images/IR_Schem.png)
 
