@@ -42,7 +42,7 @@ CALVIN's source code was written entirely in the Arduino environment in C. CALVI
 
 ![AttachZipline](images/flow_attachZipline.png)
 
-### View CAlVIN's Source Code
+### Source Code
 
 You can view CALVIN's source code [here](https://github.com/KeenanMcConkey/CALVIN/blob/master/code/CALVIN_Final.ino).
 
