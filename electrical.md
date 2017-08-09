@@ -1,3 +1,4 @@
+* [Return to Homepage](index.md)
 # Electrical
 ![Electrical Main Photo](images/main_electrical.jpg)
 
