@@ -44,7 +44,7 @@ CALVIN's source code was written entirely in the Arduino environment in C. CALVI
 
 ### View CAlVIN's Source Code
 
-You can view CALVIN's source code, coded in the Arduino environment [here](code/CALVIN_Final.ino).
+You can view CALVIN's source code, coded in the Arduino environment [here](https://github.com/KeenanMcConkey/CALVIN/blob/master/code/CALVIN_Final.ino).
 
 ### Navigation
 
