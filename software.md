@@ -1,3 +1,4 @@
+[Return to Homepage](index.md)
 ## Software
 
 CALVIN's source code was written entirely in the Arduino environment in C. CALVIN's code allows him to function as a finite state machine, with different states corresponding to the different tasks CALVIN can complete. These states are detailed below.
@@ -48,4 +49,4 @@ You can view CALVIN's source code [here](https://github.com/KeenanMcConkey/CALVI
 
 ### Navigation
 
-[Return to Home Page](index.md)
+[Return to Homepage](index.md)
