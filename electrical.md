@@ -1,4 +1,6 @@
 # Electrical
+![Electrical Main Photo](images/main_electrical.jpg)
+
 
 Simple and organized are two adjectives that we would use to explain Calvin's overall electrical design.
 
