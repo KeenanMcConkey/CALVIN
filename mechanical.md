@@ -19,8 +19,14 @@ Calvin was designed with mechanical simplicity in mind. In order to minimize man
 The main chassis is fabricated out of 3mm thick hardboard fabricated from a laser cutter and assembled with meccano pieces and hot glue. The chassis has many holes cut into it to allow wires and zipties to weave through it.
 <img src="images/Robot_Drawing_CHASSIS.PNG" align="middle"/>
 
+#### **Crane**
+The base of the crane is made from multiple 6mm acrylic components including a gear and a servo motor mount as shown below.
+<img src="images/Robot_CraneBase.jpeg" align="middle"/>
+The crane itself is constructed of 4 threaded steel rods that hold the arm base on top.
+<img src="images/Robot_Assembly_Crane.PNG" align="middle"/>
+
 #### **Arm**
-CALVIN's arm is connected to a rotating crane which extends from the rear of the chassis, and has the claw mounted by the four front holes. The arm is fabricated from 6mm thick hardboard and is gear actuated by the smaller gear attached to a servo motor (not shown).
+CALVIN's arm is connected to the rotating crane which extends from the rear of the chassis, and has the claw mounted by the four front holes. The arm is fabricated from 6mm thick hardboard and is gear actuated by the smaller gear attached to a servo motor (not shown).
 ![Arm](images/ROBOT_Drawing_ARM.PNG)
 
 #### **Claw and Claw Mount**
