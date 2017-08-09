@@ -21,7 +21,7 @@ The main chassis is fabricated out of 3mm thick hardboard fabricated from a lase
 
 #### **Crane**
 The base of the crane is made from multiple 6mm acrylic components including a gear and a servo motor mount as shown below.
-<img src="images/Robot_CraneBase.jpeg" align="middle"/>
+<img src="images/Robot_CraneBase.jpg" align="middle"/>
 The crane itself is constructed of 4 threaded steel rods that hold the arm base on top.
 <img src="images/Robot_Assembly_Crane.PNG" align="middle"/>
 
