@@ -1,3 +1,4 @@
+[Return to Homepage](index.md)
 CALVIN's Mechanical Features
 =====
 
@@ -53,4 +54,4 @@ This main box is constructed out of 3mm hardboard and is designed to mount our T
 
 ### Navigation
 
-[Return to Home Page](index.md)
+[Return to Homepage](index.md)
