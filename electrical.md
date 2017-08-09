@@ -15,7 +15,7 @@ The construction of an H-Bridge was needed to handle a high input voltage and cu
 
 The design of the H-Bridge included the use of zener diodes and mosfets to regulate the amount of power the motors would output. A PMW (Pulse Width Modulation) voltage source was connected from the TINAH to the H-Bridge which was able to be modulated in software to set the speed our motors would run at. The average peak voltage we were able to run our motors on was around 16.5 Volts. The schematic of our H-Bridge is shown above.
 
-![H-Bridge Picture](images/H_Bridge_Photo.png)
+![H-Bridge Picture](images/H_Bridge_Pic.jpg)
 
 ## IR Filter
 
