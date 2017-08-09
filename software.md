@@ -28,7 +28,7 @@ CALVIN's source code was written entirely in the Arduino environment in C. CALVI
 
 *Pickup Agent* moves CALVIN's arm, claw, and crane in order to pickup an agent located on a platform. Once CALVIN has done this, the function returns to the *Circle Agents* function.
 
-![PickupAgent](images/flow_pickupAgents.png)
+![PickupAgent](images/flow_pickupAgent.png)
 
 ### Find Zipline
 
