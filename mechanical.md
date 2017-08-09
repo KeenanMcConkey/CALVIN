@@ -1,6 +1,7 @@
 [Return to Homepage](index.md)
-CALVIN's Mechanical Features
-=====
+
+# CALVIN's Mechanical Features
+
 
 <img src="images/Photoshoot (1).jpeg" align="middle"/>
 
