@@ -2,8 +2,7 @@
 # Electrical
 ![Electrical Main Photo](images/main_electrical.jpg)
 
-
-Simple and organized are two adjectives that we would use to explain Calvin's overall electrical design.
+To minimize potential troubleshooting problems we planned to simplify Calvin's electrical design as much as possible. To do this we went by a few simple rules. Number one, if we could do it in software thats what we would do. The reasoning for this was that we wanted to limit the chance of something breaking accidentally. Buy using software it would make our robot more consistent and reliable. The second rule we went by was if it works, leave it. This was because we wanted to limit the chance of something going wrong due to integrating seperate components together.
 
 ## TIHAH Microcontroller
 
