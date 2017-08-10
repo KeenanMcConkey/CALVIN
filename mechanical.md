@@ -1,6 +1,6 @@
 [Return to Homepage](index.md)
 
-# CALVIN's Mechanical Features
+# Mechanical
 
 
 ![Main Mechanical Picture](images/main_mechanical.jpg)
