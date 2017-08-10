@@ -1,5 +1,6 @@
 [Return to Homepage](index.md)
 ## Software
+![Main Software Picture](images/main_software.png)
 
 CALVIN's source code was written entirely in the Arduino environment in C. CALVIN's code allows him to function as a finite state machine, with different states corresponding to the different tasks CALVIN can complete. These states are detailed below.
 
