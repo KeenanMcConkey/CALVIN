@@ -8,13 +8,22 @@
 Calvin was designed with mechanical simplicity in mind. In order to minimize man-made error in fabrication and assembly of components we created a minimalistic design using a single crane/arm combination with diverse functionality. These component's motions are actuated by servo motors controlled through the TINAH board which is coded for Calvin to use his arm to pick up agents, as well as place the agents on the zip-line.
 
 ### What Does CALVIN Do?
+
 #### Infrared Signal Frequency Detection
+
+<img src="images/IR_GIF.GIF" align="middle"/>
 
 #### Line Following
 
+<img src="images/TAPE_FOLLOW_GIF.GIF" align="middle"/>
+
 #### Retrieve Agents
 
+<img src="images/AGENT_GRAB_GIF.gif" align="middle"/>
+
 #### Zip-Line!
+
+<img src="ZIPLINE_GIF.gif" align="middle"/>
 
 ### Major Mechanical Components:
 #### **Main Chassis**
