@@ -23,7 +23,7 @@ Calvin was designed with mechanical simplicity in mind. In order to minimize man
 
 #### Zip-Line!
 
-<img src="ZIPLINE_GIF.gif" align="middle"/>
+<img src="images/ZIPLINE_GIF.gif" align="middle"/>
 
 ### Major Mechanical Components:
 #### **Main Chassis**
