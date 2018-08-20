@@ -10,15 +10,11 @@ CALVIN's source code was written entirely in the Arduino environment in C. CALVI
 
 ![LineFollow](images/flow_lineFollow.png)
 
-*Line Follow State Loop*
-
 ### Check Alarm
 
 *Check Alarm* is used when the CALVIN stops at the alarmed gate to read the IR beacon corresponding to the gate. This function compares two analog readings from IR filtering circuits for both 1kHz and 10 kHz signals, and CALVIN continues line following once this function returns a 1 kHz signal.
 
 ![CheckAlarm](images/flow_checkAlarm.png)
-
-*Check Alarm State Loop*
 
 ### Circle Agents
 
