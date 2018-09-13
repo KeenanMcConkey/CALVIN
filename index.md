@@ -17,10 +17,6 @@ CALVIN was created by Keenan McConkey, Austin Khorram, and Glyn Finck for the Un
 * Servo Motor and Gear Actuated Crane, Arm, and Grabbing Claw
 * TINAH Board (Arduino Board Variant)
 
-### Photo Gallery
-
-
-
 ### Navigating This Site
 
 Check out the pages below to learn more about CALVIN's different features.
